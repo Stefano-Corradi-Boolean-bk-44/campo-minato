@@ -33,4 +33,10 @@ main{
 
 .cell.clicked{
   background-color: #6495ED;
+  color: white;
+}
+
+.cell.bomb{
+  background-color: brown;
+  color: white;
 }
